@@ -1,4 +1,5 @@
 # Pixale
+
 A photo search app made using an external API that allows to search for any photos and download them.
 
 Try out here- pixale-arushi.surge.sh/
